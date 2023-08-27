@@ -1,1 +1,1 @@
-欢迎使用：https://kctvb.github.io/TBJsonEditor/
+欢迎使用
